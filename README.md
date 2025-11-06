@@ -38,9 +38,8 @@ You will need a C++ compiler installed on your machine (e.g., GCC, Clang, MSVC).
     cd your-repository-name
     ```
 3.  **Compile the source code:**
-    *(Replace `main.cpp` with the name of your main source file if it's different)*
     ```sh
-    g++ main.cpp -o library_system
+    g++ app.cpp -o library_system
     ```
 4.  **Run the application:**
     ```sh
